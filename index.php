@@ -1,2 +1,2 @@
 <?php
- echo "Hallo PHP";
+ echo "Hallo PHP - Alles klar";
