@@ -1,2 +1,2 @@
 <?php
- echo "Hallo PHP - Alles klar 2026";
+ echo "Hallo PHP - Alles klar";
